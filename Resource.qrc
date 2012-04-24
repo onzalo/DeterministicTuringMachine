@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>resource/style.css</file>
+        <file>resource/UTN_logo_small.jpg</file>
+        <file>resource/utnGold.gif</file>
+        <file>resource/add.png</file>
+        <file>resource/edit.png</file>
+        <file>resource/new.png</file>
+        <file>resource/open.png</file>
+        <file>resource/remove.png</file>
+        <file>resource/save.png</file>
+        <file>resource/Alan_Turing_.jpg</file>
+    </qresource>
+</RCC>
