@@ -5,6 +5,7 @@
 Alphabet::Alphabet()
 {
 
+
 }
 Alphabet::Alphabet(Alphabet *other){
     this->name=other->getName();
